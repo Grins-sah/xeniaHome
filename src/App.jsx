@@ -10,9 +10,7 @@ function App() {
     <div className='md:text-[150px] text-[55px]'>
       Xenia is coming soon 
     </div>
-    <div>
-      <a className='md:text-3xl text-xl outline p-2 rounded-full' href="https://bit.ly/xenia25">click here to register</a>
-    </div>
+
 
   </div>
 }
